@@ -51,7 +51,7 @@ These metrics suggest users are engaging with the page, but not all are taking a
 
 ## 📸 Traffic Dashboard
 
-![Traffic by Channel](images/traffic_by_channel.png)
+![Traffic by Channel](Traffic_By_Channel.png)
 
 ---
 
