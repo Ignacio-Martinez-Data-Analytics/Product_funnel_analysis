@@ -32,7 +32,7 @@ This indicates a drop-off between initial visit and user engagement.
 
 ## 📸 Funnel Visualization
 
-![Funnel Analysis](images/funnel_analysis.png)
+![Funnel Analysis](Funnel_Analysis.png)
 
 ---
 
